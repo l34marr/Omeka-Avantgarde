@@ -4,6 +4,12 @@
 
 This is a modern responsive theme for Omeka 2.2+.
 
+Preview:
+http://emedara.com/themes/previews/avantgarde_v2.1.jpg
+
+Preview [Mirror]:
+http://i.imgur.com/x4C1jEM.jpg
+
 After installing the theme on your Omeka website, please configure it for your liking by going to:
 
 Omeka Admin Panel > Appearance > Configure Theme [The button is below the theme's thumbnail.]
