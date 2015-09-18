@@ -1,0 +1,368 @@
+
+/*PAGE SHOW COLLECTION*/
+
+#collection-items-primary {
+	font-size:12px;
+	line-height:20px;
+	display:inline-block;
+	width:472px;
+	padding-top:20px;
+	padding-right:25px;
+	margin-bottom:30px;
+	margin-left:0px;
+	margin-right:10px;
+	vertical-align:top;
+	border-right: 1px solid #68757a;
+	min-height:600px;
+	text-align: justify;
+
+}
+
+#collection-items-primary2 {
+	font-size:12px;
+	line-height:20px;
+	display:inline-block;
+	width:472px;
+	height:750px;
+	padding-top:20px;
+	padding-right:25px;
+	margin-bottom:30px;
+	margin-left:0px;
+	margin-right:10px;
+	vertical-align:top;
+	border-right: 1px solid #68757a;
+	min-height:600px;
+	text-align: justify;
+
+}
+
+#collection-items-primary p {
+	text-align: justify;
+
+}
+
+#collection-items-secondary {
+	display:inline-block;
+	width:450px;
+	margin-left:0px;
+	padding-left:20px;
+	margin-top: 25px;
+	/* padding-top:45px; */
+	margin-bottom:30px;
+	vertical-align:top;
+
+}
+
+#collection-items-secondary2 {
+	display:inline-block;
+	width:450px;
+	margin-left:0px;
+	padding-left:20px;
+	margin-top: 5px;
+	margin-bottom:30px;
+	vertical-align:top;
+
+}
+
+#primary-collection {
+	display:inline-block;
+	width:640px;
+	padding-left:0;
+	vertical-align:top;
+	text-align:left;
+
+}
+
+#primary-collection-catalogue {
+	display:inline-block;
+	width:1000px;
+	padding-left:0;
+	vertical-align:top;
+	text-align:left;
+
+}
+
+#primary-collection p {
+	padding-top:20px;
+	font-size:13px;
+	line-height:20px;
+}
+
+#collection-secondary{
+	display:inline-block;
+	width:330px;
+	min-height:1000px;
+	margin-left:0;
+	padding-left:10px;
+	vertical-align:top;
+	font-size:13px;
+	line-height:20px;
+	border-left: 1px solid #68757a;
+	padding-top:35px;
+	margin-bottom:30px;
+}
+
+
+.collection-items-puce {
+	padding-bottom:10px;
+	border-bottom:1px solid #d1d7da;
+	margin-bottom : 10px;
+}
+
+.collection-items-img {
+	width:100px;
+	height:100px;
+	display:inline-block;
+	vertical-align:top;
+	border:1px solid #3d4548;
+
+}
+
+
+.collection-items-data {
+	display:inline-block;
+	padding-left:20px;
+	vertical-align:top;
+	width:310px;
+}
+
+.collection-items-data2{
+	display:inline-block;
+	padding-left:20px;
+	vertical-align:top;
+	width:150px;
+}
+
+.collection-items-data h3, .collection-items-data2 h3 {
+	font-size:14px;
+	font-weight:bold;
+	padding-bottom:10px;
+}
+
+#collection-items-link {
+	text-align:right;
+	margin-top:10px;
+}
+
+#collection-items-link a {
+	cursor:pointer; /*forces the cursor to change to a hand when the button is hovered*/	
+	font-size:13px;
+	font-weight: bold;
+	color: #3d4548;
+	padding: 10px;
+	border-top:5px solid #d1d7da;
+}
+
+#collection-items-link a:active, #collection-items-link a:visited {
+	background-color:transparent;
+	background-image:none;
+	outline:none;
+}
+
+#collection-items-link a:hover, #collection-items-link a:focus{
+	border-top:5px solid #69be28;
+	background-color:transparent;
+	background-image:none;
+	outline:none;
+
+}
+
+#table_guetteur {
+	font-size:12px;
+}
+
+#table-guetteur tr {
+	padding:0;
+}
+
+#pages_censurees {
+	margin-top: 5px;
+	padding: 2px;
+	background-color: #EFF0F0; 
+	width:100px;
+}
+
+
+/*PAGE BROWSE DES COLLECTIONS*/
+
+
+#primary-collection-browse {
+	display:inline-block;
+	width:1000px;
+	margin-left:0px;
+	margin-right:0px;
+	margin-bottom:30px;
+	vertical-align:top;
+	-moz-column-count:2;
+	-webkit-column-count:2;
+	column-count:2;
+	-moz-column-rule-style:solid; /* Firefox */
+	-webkit-column-rule-style:solid; /* Safari and Chrome */
+	column-rule-style:solid;
+	-moz-column-rule-width:1px; /* Firefox */
+	-webkit-column-rule-width:1px; /* Safari and Chrome */
+	column-rule-width:1px;
+	/*-moz-column-gap:20px; /* Firefox */
+	/*-webkit-column-gap:20px; /* Safari and Chrome */
+	/*column-gap:20px;*/
+	-moz-column-width:400px; /* Firefox */
+	-webkit-column-width:400px; /* Safari and Chrome */
+	column-width:400px;
+
+}
+
+.collection-browse-list {
+	border-bottom:1px solid #68757a;
+	padding-top:20px;
+	padding-bottom:20px;
+
+}
+
+.collection-browse-list2 {
+	border-bottom:1px solid grey;
+	padding-top:20px;
+	padding-bottom:20px;
+
+}
+
+.collection-browse-img
+{
+	display:inline-block;
+	vertical-align:top;
+	width:150px;
+	height:150px;
+	padding-bottom:0;
+	border:1px solid #3d4548;
+}
+
+.collection-browse-img img
+{
+	text-align:right;
+}
+
+.collection-browse-puce
+{
+	width:220px;
+	padding-left:30px;
+	display:inline-block;
+	vertical-align:top;
+}
+
+.collection-browse-puce h2
+{
+	font-size:16px;
+	font-weight:bold;
+	padding-bottom:13px;
+}
+
+.collection-browse-puce a, .collection-browse-puce
+{
+	font-size:16px;
+	font-weight:bold;
+	padding-bottom:13px;
+}
+
+.collection-browse-puce p{
+	font-weight:normal;
+}
+
+#collection-tree
+{
+	font-size:16px;
+	font-weight:bold;
+	padding-bottom:13px;
+}
+
+#collection-tree a
+{
+	font-size:14px;
+	font-weight:bold;
+}
+
+#collection-tree li li {
+	margin-left:0px;
+	padding-bottom:10px;
+	padding-top:10px;
+}
+
+#collection-tree li  {
+	margin-left:0px;
+	padding-bottom:20px;
+}
+
+#exhibit-tree-browse p {
+	width: 500px;
+}
+
+.collection-browse-puce h2 a {
+	color:#68757a;
+}
+
+.collection-browse-puce p {
+	font-size:12px;
+	padding-bottom:0;
+	line-height:17px;
+}
+
+.view-collection-browse {
+	vertical-align:bottom;
+	text-align:right;
+	font-size:11px;
+	padding-top:20px;
+
+}
+.view-collection-browse a{
+	color:black;
+	font-weight:bold;
+	text-decoration:underline;
+
+}
+
+
+/*PAGE BROWSE DES EXPOSITIONS*/
+
+#primary-exhibit-browse {
+
+	display:inline-block;
+	width:1000px;
+	margin-left:0px;
+	margin-right:0px;
+	margin-bottom:30px;
+	vertical-align:top;
+
+}
+
+.exhibit-browse-list {
+
+	padding-top:20px;
+	padding-bottom:20px;
+	font-size: 12px;
+
+}
+
+#exhibit-pages {
+
+	margin: 30px auto 0px auto;
+	padding-top: 10px;
+	padding-bottom: 0px;
+	width: 500px;
+	text-align: center;
+	border-top:1px solid #68757a;
+
+}
+
+#exhibit-pages li {
+	margin : 5px auto;
+}
+
+#exhibit-page-navigation {
+	margin-top: 15px;
+	padding-top: 10px;
+	padding-bottom: 5px;
+	border-top:1px solid #68757a;
+}
+
+#exhibit-pages .addthis_sharing_toolbox {
+	padding-left: 20px;
+	padding-top: 10px;
+}
